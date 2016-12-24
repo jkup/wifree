@@ -1,0 +1,26 @@
+{
+  "name": "wifree",
+  "version": "0.0.1",
+  "description": "Find free wireless passwords",
+  "main": "lib/server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkup/wifree.git"
+  },
+  "keywords": [
+    "wireless",
+    "passwords",
+    "wifi",
+    "free",
+    "find"
+  ],
+  "author": "Jon Kuperman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkup/wifree/issues"
+  },
+  "homepage": "https://github.com/jkup/wifree#readme"
+}
