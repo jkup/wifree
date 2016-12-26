@@ -22,5 +22,10 @@
   "bugs": {
     "url": "https://github.com/jkup/wifree/issues"
   },
-  "homepage": "https://github.com/jkup/wifree#readme"
+  "homepage": "https://github.com/jkup/wifree#readme",
+  "dependencies": {
+    "hapi": "^16.0.2",
+    "hoek": "^4.1.0",
+    "inert": "^4.0.4"
+  }
 }
