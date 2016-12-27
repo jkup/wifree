@@ -59,7 +59,16 @@ cryptiles@3.x.x:
   dependencies:
     boom "4.x.x"
 
-hapi@^16.0.2:
+glue@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/glue/-/glue-4.1.0.tgz#07ab6438cca589a306b0bbc36347b821b697402f"
+  dependencies:
+    hapi "11.x.x || 12.x.x || 13.x.x || 14.x.x || 15.x.x || 16.x.x"
+    hoek "4.x.x"
+    items "2.x.x"
+    joi "10.x.x"
+
+"hapi@11.x.x || 12.x.x || 13.x.x || 14.x.x || 15.x.x || 16.x.x", hapi@^16.0.2:
   version "16.0.2"
   resolved "https://registry.yarnpkg.com/hapi/-/hapi-16.0.2.tgz#311fe8d158e9e65ac44bc3e519296e4149d32a74"
   dependencies:
